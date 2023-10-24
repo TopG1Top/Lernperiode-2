@@ -8,7 +8,7 @@ Linhard Zejneli
 
 ## Leit-Satz
 
-In meinem zweiten Projekt möchte ich viel programmmieren damit ich es noch besser lerne. Spiele oder kleine nützliche programme. Weil es mir wichtig ist programmieren können da ich es brauche und es mir in vielen situationen helfen kann
+In meinem zweiten Projekt möchte ich viel programmmieren damit ich es noch besser lerne. Spiele oder kleine nützliche programme. wie hangman oder so genrator mit witzen oder urlaubsorte.Weil es mir wichtig ist programmieren zu können da ich es brauche und es mir in vielen situationen helfen kann. zwischendurch arbeite ich an den Modulen aber musste ich meistens nicht da ich gut zurecht komme
 
 ## Arbeitspakete für 24.10.2023
 
