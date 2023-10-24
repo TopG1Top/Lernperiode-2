@@ -12,9 +12,9 @@ In meinem zweiten Projekt möchte ich viel programmmieren damit ich es noch bess
 
 ## Arbeitspakete für 24.10.2023
 
-- [ ] Modul 431 kurz etwas machen
-- [ ] Generator machen
-- [ ] 319 C# programmieren.
+- [ ] Modul 431 kurz etwas machen mit word 1726
+- [ ] Generator machen der random orte für ferien rausspuckt
+- [ ] 319 C# programmieren. youtube video schauen das alles nochmals erklärt
 
 | Nummer | Vorbereitung | Eingabe | Erwartete Ausgabe | Erfüllt? |
 | --- | --- | --- | --- | --- |
