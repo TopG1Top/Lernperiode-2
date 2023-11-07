@@ -40,9 +40,9 @@ Heute habe ich den generator programmiert der die hauptstädte des eingegebenen 
 
 ## Arbeitspakete für 07.11.2023
 
-[] Geister Spiel programmieren. Welche Tür ist der Geist 1,2,3?
-[] Währungsumrechner der die währung von einer zu einer anderen umrechnet.
-[] kleines Quiz spiel. Der benutzer kann fragen beantworten und Punkte werden gespeichert.
+[x] Geister Spiel programmieren. Welche Tür ist der Geist 1,2,3?
+[x] Währungsumrechner der die währung von einer zu einer anderen umrechnet.
+[x] kleines Quiz spiel. Der benutzer kann fragen beantworten und Punkte werden gespeichert.
 
 
 
