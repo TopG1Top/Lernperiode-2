@@ -46,3 +46,20 @@ Heute habe ich den generator programmiert der die hauptstädte des eingegebenen 
 
 
 
+Also heute habe ich das geisterspiel gemacht es war nicht sehr schwer mit ein wenig hilfe vom Internet. Es fragt halt immer welche tür der geist 1.2.3 und man entscheidet sich dann für eine tür. Heute hatte ich wieder energie und es hat spass gemacht. der Währungsrechner ist eigentlich nicht schwierig jedoch hatte ich am anfang irgenwie keinen plan wie man das umsetzen kann. dieser hat mir zeit gekostet weil ich nicht nachschauen wollte wie man es macht über youtube. am schluss ging es dann. Beim Quizspiel war der anfang nicht schwierig doch das mit dem punkte speichern. wusste nicht wie man das machen kann . habe lange selber probiert hatte dann auch eine idee die ging doch am ende habe ich im internet nachgeschsut damit ich eine bessere variante habe und weiss wie. heute war gut konzentriert.
+
+
+
+
+
+## Arbeitspakete 14.11.2023
+
+
+[]schere,stein,papier spiel in c#
+[]Projekt WASLESEN programmieren. Welche bücher lesen nach autor etc
+[]Programmieren Orte in einem Land zu ordnen nach kategorie z.b strand, berge, 
+
+
+
+
+
