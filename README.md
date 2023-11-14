@@ -60,6 +60,17 @@ Also heute habe ich das geisterspiel gemacht es war nicht sehr schwer mit ein we
 []Programmieren Orte in einem Land zu ordnen nach kategorie z.b strand, berge, 
 
 
+Also heute habe ich das schere stein papier gemacht es war nicht sehr schwer mit ein wenig hilfe vom Internet. Heute hatte ich wieder energie und es hat spass gemacht Habe auch gut geschlafen denke das ist sehr wichtig.. Das WASLESEN dauert halt lange ist ein grösseres projekt ja war an dem am arbeiten und es war ok bin noch am planen. nachschauen wollte wie man es macht über youtube. am schluss ging es dann. Beim dem orte  programm  war der anfang nicht schwierig doch das mit dem Kategorien schon. wusste nicht wie man das machen kann . habe lange selber probiert hatte dann auch eine idee die ging doch am ende habe ich im internet nachgeschsut damit ich eine bessere variante habe und weiss wie. heute war gut konzentriert.
+
+
+
+## Arbeitspakete 21.22.2023
+
+[] WAS LESEN weitermachen mit planung und vielleicht schon programmieren
+[] Modul 162 Aufträge daten analysieren
+[] Primzahlen finden in C#
+
+
 
 
 
