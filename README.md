@@ -55,9 +55,9 @@ Also heute habe ich das geisterspiel gemacht es war nicht sehr schwer mit ein we
 ## Arbeitspakete 14.11.2023
 
 
-[]schere,stein,papier spiel in c#
-[]Projekt WASLESEN programmieren. Welche bücher lesen nach autor etc
-[]Programmieren Orte in einem Land zu ordnen nach kategorie z.b strand, berge, 
+[x]schere,stein,papier spiel in c#
+[x]Projekt WASLESEN programmieren. Welche bücher lesen nach autor etc
+[x]Programmieren Orte in einem Land zu ordnen nach kategorie z.b strand, berge, 
 
 
 Also heute habe ich das schere stein papier gemacht es war nicht sehr schwer mit ein wenig hilfe vom Internet. Heute hatte ich wieder energie und es hat spass gemacht Habe auch gut geschlafen denke das ist sehr wichtig.. Das WASLESEN dauert halt lange ist ein grösseres projekt ja war an dem am arbeiten und es war ok bin noch am planen. nachschauen wollte wie man es macht über youtube. am schluss ging es dann. Beim dem orte  programm  war der anfang nicht schwierig doch das mit dem Kategorien schon. wusste nicht wie man das machen kann . habe lange selber probiert hatte dann auch eine idee die ging doch am ende habe ich im internet nachgeschsut damit ich eine bessere variante habe und weiss wie. heute war gut konzentriert.
@@ -66,9 +66,13 @@ Also heute habe ich das schere stein papier gemacht es war nicht sehr schwer mit
 
 ## Arbeitspakete 21.22.2023
 
-[] WAS LESEN weitermachen mit planung und vielleicht schon programmieren
-[] Modul 162 Aufträge daten analysieren
-[] Primzahlen finden in C#
+[x] WAS LESEN weitermachen mit planung und vielleicht schon programmieren
+[x] Modul 162 Aufträge daten analysieren
+[x] Primzahlen finden in C#
+
+
+ein tieferes Verständnis für das Thema entwickeln, was sich positiv auf meine Planung auswirkte. habe ich die Anforderungen der Aufträge gründlich gelesen und mir einen Überblick über die notwendigen Werkzeuge und Fähigkeiten verschafft.
+Die Herausforderung bestand darin, die richtige Analysestrategie zu wählen. Durch die sorgfältige Planung konnte ich jedoch einen klaren Ansatz entwickeln und erfolgreich durchführen.Das Schreiben des Programms zur Primzahlenfindung in C# war eine spannende Herausforderung. Ich konnte sehr gut arbeiten hatte schlaf war sehr wach und hatte viel energie. konzentration war gut. Was Lesen habe ich mit twin und florian gemacht da wir in der gruppe sind.
 
 
 
