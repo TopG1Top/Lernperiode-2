@@ -75,6 +75,7 @@ ein tieferes Verständnis für das Thema entwickeln, was sich positiv auf meine 
 Die Herausforderung bestand darin, die richtige Analysestrategie zu wählen. Durch die sorgfältige Planung konnte ich jedoch einen klaren Ansatz entwickeln und erfolgreich durchführen.Das Schreiben des Programms zur Primzahlenfindung in C# war eine spannende Herausforderung. Ich konnte sehr gut arbeiten hatte schlaf war sehr wach und hatte viel energie. konzentration war gut. Was Lesen habe ich mit twin und florian gemacht da wir in der gruppe sind.
 
 
+![Screenshot 2023-11-21 124826](https://github.com/TopG1Top/Lernperiode-2/assets/142886028/f9fda32d-bfae-4f5b-bcb4-a21414e8012b)
 
 
 
