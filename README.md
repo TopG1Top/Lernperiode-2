@@ -78,4 +78,15 @@ Die Herausforderung bestand darin, die richtige Analysestrategie zu wählen. Dur
 ![Screenshot 2023-11-21 124826](https://github.com/TopG1Top/Lernperiode-2/assets/142886028/f9fda32d-bfae-4f5b-bcb4-a21414e8012b)
 
 
+## Arbeitspakete 28.22.2023
+
+[]WAS LESEN weitermachen mit  schon programmieren
+[x] Modul 162 hausaufgabe
+[x] Primzahlen finden in C#
+
+
+
+
+
+
 
