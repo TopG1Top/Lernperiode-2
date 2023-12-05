@@ -91,9 +91,20 @@ Ich habe mich informiert beim WAS LESEN und halt versucht zu programmieren. ist 
 
 ## Arbeitspakete 05.12.2023
 
-[] WAS LESEN PRÄSI vORBEREITEN
-[] JA/NEIN Generator 
-[]Modul 162 durchschauen wichtiges(Daten)
+[x] WAS LESEN PRÄSI vORBEREITEN
+[x] JA/NEIN Generator 
+[x]Modul 162 durchschauen wichtiges(Daten)
+
+
+Ich habe mich informiert beim WAS LESEN und halt versucht zu programmieren. ist nicht einfach. hatte fehler drin und musste schauen was falsch war und so. Die hausaufgabe habe ich gemacht . ich musste entity, beziehung und so angeben die Aufgabe muss ich abgeben. Das Schreiben des Programms zur Primzahlenfindung in C# war eine spann ende Herausforderung. Ich konnte sehr gut arbeiten hatte schlaf war sehr wach und hatte viel energie. konzentration war gut. Was Lesen habe ich mit twin und florian gemacht da wir in der gruppe sind. Mit dem WAS LESEN sind wir noch nicht fertig aber das Ziel für heute erreicht. Primzahlen abgeschlossen. heute wieder von zuhause aus gearbeitet und war energievoller.
+
+
+## Arbeitspakete 12.12.2023
+
+[] Modul 162 lernen
+[] AOC
+[] Tutorial für programm in c#
+
 
 
 
