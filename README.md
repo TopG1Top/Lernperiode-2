@@ -130,6 +130,24 @@ In den letzten Wochen habe ich intensiv an meiner Programmierfähigkeiten gearbe
 LP2
 
 
+Reflexion über Lernperiode-2 von Linhard Zejneli:
+
+In der zweiten Lernperiode habe ich mir das klare Ziel gesetzt, meine Programmierkenntnisse zu vertiefen, indem ich Spiele und nützliche Programme erstelle. Dies war mir wichtig, da ich die Anwendung von Programmierung in verschiedenen Situationen als nützlich erachte. Meine grobe Planung erstreckte sich über den Zeitraum vom 20.10.2023 bis zu den Weihnachtsferien am 22.12.2023.
+
+Während dieser Zeit habe ich an verschiedenen Projekten gearbeitet, darunter die Erstellung eines Ortsgenerators für Ferien, ein Währungsumrechner, ein Quizspiel und andere kleine Spiele wie Schere-Stein-Papier und das Geisterspiel. Ich habe auch an größeren Projekten wie dem "Was Lesen"-Projekt gearbeitet, bei dem ich Bücher nach Autoren sortieren wollte. Zudem habe ich Module wie das 431 und das 162 durchgearbeitet.
+
+In Bezug auf die Arbeitspakete für jeden Tag habe ich mich bemüht, klare Ziele zu setzen und diese zu erreichen. Ich habe mich intensiv mit C# auseinandergesetzt und mir bei Bedarf Videos angesehen, um mein Verständnis zu vertiefen. Besonders erfreulich war, dass ich auch bei komplexeren Projekten, wie dem "Was Lesen"-Projekt, Fortschritte gemacht habe und langsam eine Struktur entwickelt habe.
+
+Bei der Umsetzung der verschiedenen Programme sind mir einige Herausforderungen begegnet, aber ich konnte sie durch Hartnäckigkeit und Recherche erfolgreich bewältigen. Der Austausch mit Gruppenmitgliedern, insbesondere bei gemeinsamen Projekten wie "Was Lesen", hat ebenfalls dazu beigetragen, verschiedene Perspektiven und Lösungsansätze zu verstehen.
+
+Die Reflexion zeigt, dass ich eine positive Lernentwicklung gemacht habe. Ich habe nicht nur meine Programmierfähigkeiten verbessert, sondern auch ein tieferes Verständnis für verschiedene Konzepte entwickelt. Die Strukturierung der Arbeitspakete und das Arbeiten an verschiedenen Projekten haben dazu beigetragen, dass ich produktiv und fokussiert bleiben konnte.
+
+Insgesamt war die zweite Lernperiode erfolgreich, und ich freue mich darauf, meine Fähigkeiten weiter zu entwickeln und neue Projekte in Angriff zu nehmen.
+VBF Ich versuche das zu erreichen in dem ich Musik höre während dem Arbeiten denn das hilft mir und auch am Morgen etwas esse das hilft mir bei allem. Vor allem meine Durchhaltevermögen
+
+
+
+
 
 
 
