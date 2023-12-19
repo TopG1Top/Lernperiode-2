@@ -145,7 +145,7 @@ Die Reflexion zeigt, dass ich eine positive Lernentwicklung gemacht habe. Ich ha
 Insgesamt war die zweite Lernperiode erfolgreich, und ich freue mich darauf, meine Fähigkeiten weiter zu entwickeln und neue Projekte in Angriff zu nehmen.
 VBF Ich versuche das zu erreichen in dem ich Musik höre während dem Arbeiten denn das hilft mir und auch am Morgen etwas esse das hilft mir bei allem. Vor allem meine Durchhaltevermögen
 
-
+(280)
 
 
 
