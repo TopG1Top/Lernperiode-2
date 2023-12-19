@@ -1,0 +1,14 @@
+C:\Users\A_120612\source\repos\Vokabeltrainer\Vokabeltrainer\bin\Debug\net6.0\Vokabeltrainer.exe
+C:\Users\A_120612\source\repos\Vokabeltrainer\Vokabeltrainer\bin\Debug\net6.0\Vokabeltrainer.deps.json
+C:\Users\A_120612\source\repos\Vokabeltrainer\Vokabeltrainer\bin\Debug\net6.0\Vokabeltrainer.runtimeconfig.json
+C:\Users\A_120612\source\repos\Vokabeltrainer\Vokabeltrainer\bin\Debug\net6.0\Vokabeltrainer.dll
+C:\Users\A_120612\source\repos\Vokabeltrainer\Vokabeltrainer\bin\Debug\net6.0\Vokabeltrainer.pdb
+C:\Users\A_120612\source\repos\Vokabeltrainer\Vokabeltrainer\obj\Debug\net6.0\Vokabeltrainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A_120612\source\repos\Vokabeltrainer\Vokabeltrainer\obj\Debug\net6.0\Vokabeltrainer.AssemblyInfoInputs.cache
+C:\Users\A_120612\source\repos\Vokabeltrainer\Vokabeltrainer\obj\Debug\net6.0\Vokabeltrainer.AssemblyInfo.cs
+C:\Users\A_120612\source\repos\Vokabeltrainer\Vokabeltrainer\obj\Debug\net6.0\Vokabeltrainer.csproj.CoreCompileInputs.cache
+C:\Users\A_120612\source\repos\Vokabeltrainer\Vokabeltrainer\obj\Debug\net6.0\Vokabeltrainer.dll
+C:\Users\A_120612\source\repos\Vokabeltrainer\Vokabeltrainer\obj\Debug\net6.0\refint\Vokabeltrainer.dll
+C:\Users\A_120612\source\repos\Vokabeltrainer\Vokabeltrainer\obj\Debug\net6.0\Vokabeltrainer.pdb
+C:\Users\A_120612\source\repos\Vokabeltrainer\Vokabeltrainer\obj\Debug\net6.0\Vokabeltrainer.genruntimeconfig.cache
+C:\Users\A_120612\source\repos\Vokabeltrainer\Vokabeltrainer\obj\Debug\net6.0\ref\Vokabeltrainer.dll
