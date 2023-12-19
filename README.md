@@ -111,9 +111,12 @@ Ich habe mich informiert beim WAS LESEN und halt versucht zu programmieren. ist 
 
 ## Arbeitspakete 19.12.2023
 
-[] neues modul weitermachen 
-[] AOC
-[] Tutorial für programm in c#
+[x] neues modul weitermachen 
+[x] AOC
+[x] Tutorial für programm in c#
+
+
+Ich habe am Modul 117 weitere aufgaben gelöst und Moodletests gemacht. Es ging recht gut hatte keine schwierigkeiten. Dann habe ich in C# programmiert. Ich habe heute gut gearbeitet. Ich hatte genügend schlaf und es war gut von zuhause aus. Konzentration war gut. Hatte Spass und neues gelernt.
 
 
 
